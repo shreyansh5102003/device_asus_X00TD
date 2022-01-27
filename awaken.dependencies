@@ -7,6 +7,6 @@
   {
     "repository"  : "vendor_asus",
     "target_path" : "vendor/asus",
-    "branch"      : "twelve"
+    "branch"      : "twelve"   .
   }
 ]
