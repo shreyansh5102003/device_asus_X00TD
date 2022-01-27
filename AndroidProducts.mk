@@ -10,5 +10,5 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     awaken_X00TD-user \
     awaken_X00TD-userdebug \
-    awakn_X00TD-eng
+    awaken_X00TD-eng
 
